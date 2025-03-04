@@ -45,5 +45,5 @@ Statistical analysis shows that deep learning models, particularly **DenseNet121
 
 ---
 ### References
-- Kaggle Dataset: [Brain MRI Images Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
+- Kaggle Dataset: [Brain MRI Images Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
